@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JUC/JUC.iml" filepath="$PROJECT_DIR$/JUC/JUC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail180925.iml" filepath="$PROJECT_DIR$/gmail180925.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-list-service/gmall-list-service.iml" filepath="$PROJECT_DIR$/gmall-list-service/gmall-list-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-mq-test/gmall-mq-test.iml" filepath="$PROJECT_DIR$/gmall-mq-test/gmall-mq-test.iml" />
+    </modules>
+  </component>
+</project>
